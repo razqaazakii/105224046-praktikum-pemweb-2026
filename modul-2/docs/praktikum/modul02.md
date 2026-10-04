@@ -2,8 +2,6 @@
  
 Nama        : Razqa Azaki
 NIM         : 105224046
- 
----
 
 ## 1. Struktur Semantik
 
@@ -28,13 +26,13 @@ NIM         : 105224046
 ### Tangkapan Layar pada Tiga Ukuran Layar
  
 **360 px (Ponsel)**
-![Tangkapan layar di DevTools](./assets/foto2.png)
+![Tangkapan layar di DevTools](../../assets/foto2.png)
  
 **768 px (Tablet)**
-![Tangkapan layar di DevTools](./assets/foto3.png)
+![Tangkapan layar di DevTools](../../assets/foto3.png)
  
 **1280 px (Desktop)**
-![Tangkapan layar di DevTools](./assets/foto4.png)
+![Tangkapan layar di DevTools](../../assets/foto4.png)
 
 ### Kelas Flexbox, Grid, dan Breakpoint yang Digunakan
  
@@ -50,7 +48,7 @@ NIM         : 105224046
 | `mx-auto` | Layout | Memusatkan konten secara horizontal |
 
 **Hasil screenshotnya**
-![Tangkapan layar di DevTools](./assets/foto7.png)
+![Tangkapan layar di DevTools](../../assets/foto7.png)
  
 ---
 
@@ -68,9 +66,9 @@ NIM         : 105224046
 |  | **SEO** | 90 | 100 | Penggunaan struktur halaman yang ramah mesin pencari |
 
 **Hasil screenshot aksesibilitas sebelum tambahan dengan komponen file latihan.tsx**
-![Tangkapan layar di DevTools](./assets/foto6.png)
+![Tangkapan layar di DevTools](../../assets/foto6.png)
 **Hasil screenshot aksesibilitas setelah tambahan dengan komponen file latihan.tsx**
-![Tangkapan layar di DevTools](./assets/foto5.png)
+![Tangkapan layar di DevTools](../../assets/foto5.png)
 
  
 ### Daftar Audit yang Gagal dan Perbaikannya
