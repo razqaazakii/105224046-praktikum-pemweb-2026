@@ -15,7 +15,7 @@ export default function Beranda() {
     <>
       <a href="#konten" className="sr-only focus:not-sr-only focus:p-2">
         Lewati ke konten utama
-      </a>
+      </a>  
       <header className="border-b bg-brand text-white">
         <nav aria-label="Navigasi utama" className="mx-auto flex max-w-6xl items-center justify-between p-4">
         <Link href="/" className="text-lg font-bold">Automated Phishing URL Analyzer & Sandbox Validation</Link>
